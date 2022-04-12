@@ -7,7 +7,7 @@ Telegram Mini Music Voice Chat Userbot
 
 ## Deploying
 * heroku:   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/moezilla/vc-userbot)   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/Shanidkk00/Vc-Userbot-1)   
 
 * VPS:   
 `git clone https://github.com/moezilla/vc-userbot`   
