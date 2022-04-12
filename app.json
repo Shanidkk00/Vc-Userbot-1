@@ -5,7 +5,7 @@
         "telegram",
         "voice"
     ],
-    "repository": "https://github.com//Moezilla",
+    "repository": "https://github.com/Shanidkk00/Vc-Userbot-1",
     "success_url": "https://t.me/CosmicAuraSupport",
     "stack": "container",
     "env": {
